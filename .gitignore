@@ -1,0 +1,11 @@
+venv312/
+.venv312/
+env/
+ENV/
+
+docs/
+.docs/
+
+.env
+
+db.sqlite3
